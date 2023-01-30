@@ -27,7 +27,12 @@ These are non-functional requirements:
 
 For this assignment I've used PyQt for the GUI and NetworkX library for graph visualization.
 
-Some of the improvements I would've liked to implement (but I didn't duo to time constraints):
+Some of the improvements I would've liked to implement (but I didn't, duo to time constraints):
++ Change window's titles
++ Transfer all code related to visual aspects of the windows to the setupUi function
++ Work on the graph's aesthetics
++ Properly document the codes
++ Review and optimize the codes 
 
 
 ###### Windows folder:
@@ -41,12 +46,12 @@ Background image.
 
 ###### mysocialnet2.pkl:
 A saved instance of SimpleNet. Some users have already been registered:
-    - User: ajm ; Password: 123
-    - User: alessandra ; Password: 1234
-    - User: FelipeM ; Password: Abacaxi
-    - User: renan ; Password: 105285
-    - User: org ; Password: 123
-    - User: LucasK ; Password: oioi
+- User: ajm ; Password: 123
+- User: alessandra ; Password: 1234
+- User: FelipeM ; Password: Abacaxi
+- User: renan ; Password: 105285
+- User: org ; Password: 123
+- User: LucasK ; Password: oioi
  
  
 ###### myWidgets.py:
