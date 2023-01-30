@@ -8,8 +8,7 @@ The main objective of this work is to implement an application that simulates a 
 using the knowledge acquired in class in order to carry out loading, handling and
 checking a set of in-memory data structures.
 A social network can be defined as a social structure composed of people or
-organizations, connected by various types of relationships, that share common values and goals. You
-Minimum functional requirements of the application to be developed are:
+organizations, connected by various types of relationships, that share common values and goals. The minimum functional requirements of the application to be developed are:
 + People or organizations can create profiles on the network and are users of the application.
 + People can choose to keep certain profile information private.
 + People can relate to other people in different ways: friendship (two-way),
