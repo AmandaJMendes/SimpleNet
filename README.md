@@ -8,7 +8,7 @@ The main objective of this work is to implement an application that simulates a 
 using the knowledge acquired in class in order to carry out loading, handling and
 checking a set of in-memory data structures.
 A social network can be defined as a social structure composed of people or
-organizations, connected by various types of relationships, that share common values ​​and goals. You
+organizations, connected by various types of relationships, that share common values and goals. You
 Minimum functional requirements of the application to be developed are:
 • People or organizations can create profiles on the network and are users of the application.
 • People can choose to keep certain profile information private.
@@ -26,6 +26,9 @@ These are non-functional requirements:
 """
 
 For this assignment I've used PyQt for the GUI and NetworkX library for graph visualization.
+
+Some of the improvements I would've liked to implement (but I didn't duo to time constraints):
+
 
 ###### Windows folder:
 It's where all .ui files as well as their convertions to .py are located. NOTE: the .py files were manually edited after the convertion from .ui to .py. 
